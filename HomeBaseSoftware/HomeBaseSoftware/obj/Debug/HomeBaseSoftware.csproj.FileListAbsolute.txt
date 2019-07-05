@@ -1,0 +1,104 @@
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csprojResolveAssemblyReference.cache
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ClientAddition.resources
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.Properties.Resources.resources
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.WelcomePage.resources
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.GenerateResource.cache
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.CoreCompileInputs.cache
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc.mdf
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc_log.ldf
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe.config
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.pdb
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.exe
+c:\users\tauriello-pc\source\repos\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.pdb
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc.mdf
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc_log.ldf
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe.config
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.pdb
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ClientAddition.resources
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.Properties.Resources.resources
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.WelcomePage.resources
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.GenerateResource.cache
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.exe
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.pdb
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ContractorAddition.resources
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.MainWindow.resources
+C:\Users\Tauriello-PC\source\repos\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.JobAddition.resources
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc.mdf
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc_log.ldf
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe.config
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.pdb
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csprojResolveAssemblyReference.cache
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ClientAddition.resources
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ContractorAddition.resources
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.JobAddition.resources
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.MainWindow.resources
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.Properties.Resources.resources
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.WelcomePage.resources
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.GenerateResource.cache
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.CoreCompileInputs.cache
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.exe
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.pdb
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ExportJobsDialog.resources
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\CsvHelper.dll
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\CsvHelper.xml
+E:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.CopyComplete
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc.mdf
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc_log.ldf
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe.config
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.pdb
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\CsvHelper.dll
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\CsvHelper.xml
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csprojResolveAssemblyReference.cache
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ClientAddition.resources
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ContractorAddition.resources
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ExportJobsDialog.resources
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.JobAddition.resources
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.MainWindow.resources
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.Properties.Resources.resources
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.GenerateResource.cache
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.CoreCompileInputs.cache
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.CopyComplete
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.exe
+F:\UNI\Agile Development\Assignment 3\IQIncorporated\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.pdb
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe.config
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.exe
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.pdb
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ClientAddition.resources
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ContractorAddition.resources
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ExportJobsDialog.resources
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.JobAddition.resources
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.MainWindow.resources
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.Properties.Resources.resources
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc.mdf
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc_log.ldf
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.pdb
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\CsvHelper.xml
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc.mdf
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\IQInc_log.ldf
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe.config
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.exe
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\HomeBaseSoftware.pdb
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\CsvHelper.dll
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\bin\Debug\CsvHelper.xml
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csprojAssemblyReference.cache
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ClientAddition.resources
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ContractorAddition.resources
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.ExportJobsDialog.resources
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.JobAddition.resources
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.MainWindow.resources
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.Properties.Resources.resources
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.GenerateResource.cache
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.csproj.CopyComplete
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.exe
+C:\Users\Pawan puri\Desktop\c# code\as3\HomeBaseSoftware\HomeBaseSoftware\obj\Debug\HomeBaseSoftware.pdb
